@@ -12,5 +12,6 @@ System.out.println("Hello Srinivas");
   System.out.println("Hello Ramya");
 System.out.println("Hello Prashanth");
   System.out.println("Hello Muaaz);
+  System.out.println("welcome to devops");
 }
 }
